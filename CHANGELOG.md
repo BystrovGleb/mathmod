@@ -1,4 +1,4 @@
-## [1.0.3](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.2...v1.0.3) (2023-02-07)
+## [1.0.3](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.2...v1.0.3) (2023-02-12)
 
 
 ### Особенности
@@ -7,7 +7,7 @@
 
 
 
-## [1.0.2](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.1...v1.0.2) (2023-01-20)
+## [1.0.2](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.1...v1.0.2) (2023-02-12)
 
 
 ### Особенности
@@ -16,7 +16,7 @@
 
 
 
-## [1.0.1](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.0...v1.0.1) (2022-09-06)
+## [1.0.1](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.0...v1.0.1) (2023-02-11)
 
 
 ### Особенности
