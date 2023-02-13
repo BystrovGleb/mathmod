@@ -21,7 +21,7 @@
 
 ### Features
 
-* **course:** add report file ([f2d0131](https://github.com/BystrovGleb/mathmod/commit/f2d01318fcc33d871929302db473dd11a24005f4))
+* **Lab1:** add report file ([f2d0131](https://github.com/BystrovGleb/mathmod/commit/f2d01318fcc33d871929302db473dd11a24005f4))
 
 
 
@@ -30,4 +30,4 @@
 
 ### Features
 
-* **course:** add new folder ([1d6f00e](https://github.com/BystrovGleb/mathmod/commit/1d6f00e256f0c2af2c29f5116bdb8c99043506d6))
+* **mathmod:** add new folder ([1d6f00e](https://github.com/BystrovGleb/mathmod/commit/1d6f00e256f0c2af2c29f5116bdb8c99043506d6))
