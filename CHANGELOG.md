@@ -1,47 +1,36 @@
-## [1.0.3](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.2...v1.0.3) (2023-02-12)
+## [1.0.3](https://github.com/BystrovGleb/mathmod/compare) (2023-02-12)
 
 
-### Особенности
+### Features
 
-* **course:** add presentation element ([afe4900](https://github.com/yamadharma/course-directory-student-template/commit/afe49009b2f1ca47385f3020048617a0570ed196))
-
-
-
-## [1.0.2](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.1...v1.0.2) (2023-02-12)
-
-
-### Особенности
-
-* **courses:** add file for mathmod ([2150012](https://github.com/yamadharma/course-directory-student-template/commit/2150012e885375b09edc64d4c709bfb8bc6edacc))
+* **Lab1:** add links to the bib file ([020f981](https://github.com/BystrovGleb/mathmod/commit/020f981c27944a1b296cc1cc10b1b4ed4a70e20e))
 
 
 
-## [1.0.1](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.0...v1.0.1) (2023-02-11)
+## [1.0.2](https://github.com/BystrovGleb/mathmod/compare) (2023-02-12)
 
 
-### Особенности
+### Features
 
-* **course:** add mathsec course ([4127c7b](https://github.com/yamadharma/course-directory-student-template/commit/4127c7b10f6784e6d3e54effa3b1e57b4808dfe6))
-* **course:** add sciprog ([9ded3b5](https://github.com/yamadharma/course-directory-student-template/commit/9ded3b53f48275c394b3c6bdb465013e83d88def))
+* **Lab1:** add file for mathmod ([e22c188](https://github.com/BystrovGleb/mathmod/commit/e22c188354648545862327f81771a72f54dd17fa))
+
+
+
+## [1.0.1](https://github.com/BystrovGleb/mathmod/compare) (2023-02-11)
+
+
+### Features
+
+* **course:** add mathsec course ([f2d0131](https://github.com/BystrovGleb/mathmod/commit/f2d01318fcc33d871929302db473dd11a24005f4))
 
 
 
 # 1.0.0 (2023-02-11)
 
 
-### Исправление ошибок
+### Features
 
-* **course:** fix number of labs in arch-pc ([edd3793](https://github.com/yamadharma/course-directory-student-template/commit/edd379372c071c796cf84c38cdd7fe996afd0cdb))
-* **doc:** fix typo in documentation ([1220bc4](https://github.com/yamadharma/course-directory-student-template/commit/1220bc4a802e558e2a18036b43e39ca131ee644c))
-* **script:** remove unneeded scripts ([2371297](https://github.com/yamadharma/course-directory-student-template/commit/23712978562979560713861201f50c82e447e042))
-
-
-### Особенности
-
-* **course:** add new course ([c63d6b1](https://github.com/yamadharma/course-directory-student-template/commit/c63d6b162ed4df91d96bd9a9ea5ee014bdd42f73))
-* **doc:** add documentation ([6e6fa80](https://github.com/yamadharma/course-directory-student-template/commit/6e6fa80ecf9a7a2fa1dbd3e45cdf28dc07a1a1f8))
-* **make:** add help to Makefile ([8015255](https://github.com/yamadharma/course-directory-student-template/commit/8015255d434b2a4735f0ea406ef99be4d68f8b6f))
-* **script:** add script for auto-determine name of course ([10a8b58](https://github.com/yamadharma/course-directory-student-template/commit/10a8b58ccf830930dc6daf15d664582ce87913e3))
+* **course:** add new course ([1d6f00e](https://github.com/BystrovGleb/mathmod/commit/1d6f00e256f0c2af2c29f5116bdb8c99043506d6))
 
 
 
