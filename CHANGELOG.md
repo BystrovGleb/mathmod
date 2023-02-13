@@ -1,7 +1,7 @@
 ## [1.0.4](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.3...v1.0.4) (2023-02-07)
 
 
-### Features
+### Особенности
 
 * **course:** add presentation element ([afe4900](https://github.com/yamadharma/course-directory-student-template/commit/afe49009b2f1ca47385f3020048617a0570ed196))
 
@@ -14,7 +14,7 @@
 ## [1.0.2](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.1...v1.0.2) (2023-01-20)
 
 
-### Features
+### Особенности
 
 * **courses:** add file for mathmod ([2150012](https://github.com/yamadharma/course-directory-student-template/commit/2150012e885375b09edc64d4c709bfb8bc6edacc))
 
@@ -23,14 +23,14 @@
 ## [1.0.1](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.0...v1.0.1) (2022-09-06)
 
 
-### Features
+### Особенности
 
 * **course:** add mathsec course ([4127c7b](https://github.com/yamadharma/course-directory-student-template/commit/4127c7b10f6784e6d3e54effa3b1e57b4808dfe6))
 * **course:** add sciprog ([9ded3b5](https://github.com/yamadharma/course-directory-student-template/commit/9ded3b53f48275c394b3c6bdb465013e83d88def))
 
 
 
-# 1.0.0 (2022-09-05)
+# 1.0.0 (2023-02-11)
 
 
 ### Bug Fixes
