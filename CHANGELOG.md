@@ -12,7 +12,7 @@
 
 ### Features
 
-* **Lab1:** add file for mathmod ([e22c188](https://github.com/BystrovGleb/mathmod/commit/e22c188354648545862327f81771a72f54dd17fa))
+* **Lab1:** add a presentation to the work ([e22c188](https://github.com/BystrovGleb/mathmod/commit/e22c188354648545862327f81771a72f54dd17fa))
 
 
 
@@ -21,7 +21,7 @@
 
 ### Features
 
-* **course:** add mathsec course ([f2d0131](https://github.com/BystrovGleb/mathmod/commit/f2d01318fcc33d871929302db473dd11a24005f4))
+* **course:** add report file ([f2d0131](https://github.com/BystrovGleb/mathmod/commit/f2d01318fcc33d871929302db473dd11a24005f4))
 
 
 
@@ -30,8 +30,4 @@
 
 ### Features
 
-* **course:** add new course ([1d6f00e](https://github.com/BystrovGleb/mathmod/commit/1d6f00e256f0c2af2c29f5116bdb8c99043506d6))
-
-
-
-
+* **course:** add new folder ([1d6f00e](https://github.com/BystrovGleb/mathmod/commit/1d6f00e256f0c2af2c29f5116bdb8c99043506d6))
